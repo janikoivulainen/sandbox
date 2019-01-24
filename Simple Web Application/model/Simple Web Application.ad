@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ad="http://www.conformiq.com/emf/13/ActivityDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ad="http://www.conformiq.com/emf/14/ActivityDiagram" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
   <ad:ActivityDiagram xmi:id="_frea4JPBEeO_KayZfGtJow" type="qml6c3618d787bf4fafa1a14776b3ea8840">
     <controlFlows xmi:type="ad:NormalControlFlow" xmi:id="_LJU6kJPDEeO_KayZfGtJow" to="_HMjjAJPDEeO_KayZfGtJow" from="_F7EtAJPDEeO_KayZfGtJow"/>
     <controlFlows xmi:type="ad:NormalControlFlow" xmi:id="_qIStIJPDEeO_KayZfGtJow" to="_o1pZgJPDEeO_KayZfGtJow" from="_kBMMAJPDEeO_KayZfGtJow"/>
