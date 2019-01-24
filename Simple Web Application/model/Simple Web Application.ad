@@ -678,7 +678,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_jCjO0sOtEeOkbLW0qDGG4A" fontName="Sans"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jCjO08OtEeOkbLW0qDGG4A" x="12" y="36" width="229" height="61"/>
     </children>
-    <children xmi:type="notation:Shape" xmi:id="_URuiMB_oEemlcJMPnyeUnw" type="Note" fontName="Segoe UI" description="Just another comment" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
+    <children xmi:type="notation:Shape" xmi:id="_URuiMB_oEemlcJMPnyeUnw" type="Note" fontName="Segoe UI" description="Just another comment. And another comment pushed from a Creator-release tweaked to work with &quot;git over ssh&quot;" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
       <children xmi:type="notation:BasicDecorationNode" xmi:id="_UR3sIB_oEemlcJMPnyeUnw" type="DiagramName">
         <element xsi:nil="true"/>
       </children>
@@ -688,7 +688,7 @@
       <styles xmi:type="notation:TextStyle" xmi:id="_URuiMR_oEemlcJMPnyeUnw"/>
       <styles xmi:type="notation:LineTypeStyle" xmi:id="_URuiMh_oEemlcJMPnyeUnw"/>
       <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_URuiMx_oEemlcJMPnyeUnw" x="24" y="312" width="193" height="61"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_URuiMx_oEemlcJMPnyeUnw" x="24" y="288" width="217" height="73"/>
     </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_frlvoZPBEeO_KayZfGtJow"/>
     <edges xmi:type="notation:Edge" xmi:id="_LJWvwJPDEeO_KayZfGtJow" type="4001" element="_LJU6kJPDEeO_KayZfGtJow" source="_F7rxAJPDEeO_KayZfGtJow" target="_HMppoJPDEeO_KayZfGtJow">
